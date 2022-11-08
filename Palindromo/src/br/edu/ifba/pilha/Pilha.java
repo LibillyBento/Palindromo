@@ -22,7 +22,7 @@ public class Pilha {
 	
 	public void verifica(String palavra) {
 		if(palavra.equals(verifica.toString())) {
-			System.out.println("Ã‰ palindromo");
+			System.out.println("É sim um palindromo");
 		}else {
 			System.out.println("Não é palidromo");
 		}
